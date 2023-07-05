@@ -1,0 +1,12 @@
+D:\projetos C#\Interface Gráfica\Interface Gráfica\bin\Debug\Interface Gráfica.exe.config
+D:\projetos C#\Interface Gráfica\Interface Gráfica\bin\Debug\Interface Gráfica.exe
+D:\projetos C#\Interface Gráfica\Interface Gráfica\bin\Debug\Interface Gráfica.pdb
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.csproj.AssemblyReference.cache
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.csproj.SuggestedBindingRedirects.cache
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface_Gráfica.Properties.Resources.resources
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.csproj.GenerateResource.cache
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.csproj.CoreCompileInputs.cache
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.exe
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface Gráfica.pdb
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface_Gráfica.FormDoc.resources
+D:\projetos C#\Interface Gráfica\Interface Gráfica\obj\Debug\Interface_Gráfica.FormPrincipal.resources
